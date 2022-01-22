@@ -5,10 +5,7 @@ import {
   Route,
   HashRouter as Router,
   Switch,
-  Redirect
-
-
-} from 'react-router-dom'
+  Redirect} from 'react-router-dom'
 import axios from 'axios';
 import Auth from './Components/Auth/Auth';
 import MainNavigation from './Containers/Menubar/MainNavigation/MainNavigation';
